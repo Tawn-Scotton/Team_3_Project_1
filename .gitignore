@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vs/Team_3_Project_1/v17/.wsuo
+.vs/VSWorkspaceState.json
+Airline_Delay_Cause.csv
+.vs/Team_3_Project_1/config/applicationhost.config
