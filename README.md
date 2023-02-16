@@ -1,8 +1,9 @@
 # Team_3_Project_1
 Github for Team_3
-
+Analysis
 ---
-We used a csv dataset from Bureau of Transportation Statistics (bts.gov) to investigate how weather impacted the arrival flights delays from 2003 to 2022 in the US. 
+Our team used a csv that we pulled from the Department of Transportation Bureau of Transportation Statistics about Flight Arrival Delays (bts.gov). We cleaned and analyzed the data. Our initial hypothesis was about the effect of weather on flight delays. Upon sorting and grouping the data using Pandas, we realized that of the listed delay reasons, weather was the smallest reason. We learned the different definitions and acronyms used in talking about delays, cancellations and diversions.
+The time period studied was from 2003 to 2022. We started with all airlines and then scoped down to the top 5 airlines and the last 5 years to investigate how weather impacted the arrival flights delays from 2003 to 2022 in the US.
 
 Hypothesis 1:
 Recent weather changes have caused an increase in the number of delays of arrival flights in all regions across the US.
@@ -27,7 +28,5 @@ American Airlines has weather delays in the highest number of airports
 The team reduced the scope from our initial questions to investigate all flights (arriving and departing), months with the most delays and the customer satisfaction data.  The decision to reduce scope was based on the size of the arriving flights dataset (over 300,000 rows), time issues for collecting and analyzing the satisfaction data in addition to the flight data, and the time considerations to code the primary flight delay analysis. Scope reduced from 20 years to 5 years, weather impact (number, %, delays per year and month, and time of delays) reduced to number and % only.  Team added regions for analysis to crossreference with airports after the primary code was written in Pandas for airport data.  This allowed for a more robust analysis, but took additional time since it was not merged with the inital dataset when coding began.
 
 Additional analyses can be conducted to investigate the impact of weather on the delays of arriving flights in the US.
-
-=======
 
 Team Members:  Calogera McCormick, Jamie Cid, Minta Burke, Sana Azubzai, Tawn Scotton
