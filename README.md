@@ -30,4 +30,4 @@ THe team reduced the scope from our initial questions to investigate all flights
 Additional analyses can be conducted to investigate the impact of weather on the delays of arriving flights in the US.
 
 
-Team Members:  Calogera McCormick, Jamie Cid, Minta Burke, Sana Azubzai, Tawn Scotton
+Team Members:  Calogera McCormick, Jamie Cid, Minta Burke, Sana Ayubzai, Tawn Scotton
